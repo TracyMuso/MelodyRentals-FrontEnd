@@ -4,9 +4,9 @@
   "description": "<a name=\"readme-top\"></a>",
   "scripts": {
     "start": "npm start",
-    "build": "npm run build",
+    "build": "react-scripts build",
     "test": "npm test",
-    "eject": "npm eject"
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "axios": "^1.3.2",
     "bootstrap": "^5.2.3",
     "jquery": "^3.6.3",
+    "opts": "^2.0.2",
     "popper.js": "^1.16.1",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
