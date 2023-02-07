@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const END_POINT = 'http://localhost:3000/api/v1';
+const END_POINT = 'https://melody-rentals.onrender.com/api/v1';
 export const baseApi = axios.create({
   baseURL: `${END_POINT}`,
 });
