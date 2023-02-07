@@ -2,11 +2,24 @@
   "name": "melodyrentals-frontend",
   "version": "1.0.0",
   "description": "<a name=\"readme-top\"></a>",
+  "private": true,
   "scripts": {
     "start": "npm start",
     "build": "react-scripts build",
     "test": "npm test",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
   "repository": {
     "type": "git",
@@ -18,7 +31,6 @@
   "bugs": {
     "url": "https://github.com/TracyMuso/MelodyRentals-FrontEnd/issues"
   },
-  "homepage": "https://github.com/TracyMuso/MelodyRentals-FrontEnd#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",
