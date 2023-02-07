@@ -98,13 +98,14 @@ After you're finished please remove all the comments and instructions!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Website Mockup 📱 💻 🖥️ <a name="screenshots"></a>
+![](./melody.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Backend Repo -->
 ## <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ruby-on-rails-icon.png" width="23" height="20"/> Rails Backend <a name="rails-backend"></a>
-- Here is the Backend part of the project [ Melody Rentals Backend](https://github.com/Farida-Hamid/MelodyRentals-BackEnd)
+- Here is the Backend part of the project [ Melody Rentals Backend](https://github.com/TracyMuso/MelodyRentals-BackEnd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +124,7 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo :rocket:] :smiley:
+- [Live Demo :rocket:](https://melody-rentals.netlify.app/) :smiley:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,7 +216,7 @@ Run tests
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Farida-Hamid/MelodyRentals-FrontEnd).
+Feel free to check the [issues page](https://github.com/TracyMuso/MelodyRentals-FrontEnd).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
