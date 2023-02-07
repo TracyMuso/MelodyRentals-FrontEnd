@@ -3,7 +3,7 @@
 // Action types
 const READ = 'instruments/READ';
 
-const baseURL = 'http://127.0.0.1:3000/api/v1/instruments.json';
+const baseURL = 'https://melody-rentals.onrender.com/api/v1';
 
 // Action creators
 export const read = (instruments) => ({
