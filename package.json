@@ -27,9 +27,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "npm start",
+    "build": "npm run build",
+    "test": "npm test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
